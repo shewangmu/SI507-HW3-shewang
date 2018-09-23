@@ -12,7 +12,6 @@ def get_answer():
     import random
     i = random.randint(0,20)
     return answer_list[i]
-<<<<<<< HEAD
 
 while(True):
     try:
@@ -25,5 +24,3 @@ while(True):
             print("I can only answer questions")
     except:
         break
-=======
->>>>>>> 659671820364e6635da8df1e74a5d89cc74a9858
